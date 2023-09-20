@@ -1,8 +1,14 @@
-# React + Vite
+# React JavaScript Project: Folder Structure
+Welcome to our React JavaScript project! This repository is organized with a clean and scalable folder structure to help you build maintainable and efficient React applications using JavaScript. This README will guide you through the different directories and their purposes.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Getting Started
+Clone this repository:--
+### git clone https://github.com/yahyahiwa3/React-Folder-Structure-JavaScript.git
+Navigate to the project folder: 
+### cd React-Folder-Structure-JavaScript
+Install dependencies:
+### npm install
+Start the development server:
+### npm run dev
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Feel free to customize, add more directories, or adjust the structure to fit your project's needs. Happy coding!
